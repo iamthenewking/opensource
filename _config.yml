@@ -1,6 +1,6 @@
 title: Open Source Guides
 description: Learn how to launch and grow your project.
-
+base: opensource
 exclude:
   - bin
   - CNAME
